@@ -11,6 +11,6 @@
 
 * First tagged version.
 
-## v1.0.2 (2021-12-15)
+## v1.1.4 (2021-12-15)
 
 * Add first_seen and rows_sent to longest running query dashboard
